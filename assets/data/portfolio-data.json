@@ -1,0 +1,171 @@
+{
+  "projects": [
+    {
+      "name": "Decoditec Wearehouse",
+      "desc": "Created for the management of inventory data.",
+      "image": "portfolio-dec-small.webp",
+      "urlDetail": "/portfolio-details.html?name=",
+      "details": {
+        "category": "Web App",
+        "client": "Decoditec",
+        "filter": "web",
+        "date": "Feb 09, 2022",
+        "url": "https://marc58.alwaysdata.net/",
+        "github": "https://github.com/encrypton58/Decoditec-Almacen",
+        "title": "Decoditec Wearehouse",
+        "desc": "Created for the management of inventory inputs and outputs as well as for the control of borrowed tools and all types of objects handled by the warehouse area, the system was carried out using Technologies such as: Express, Node JS, Mysql, it is worth clarifying that the The sample version I have is different from the company's.",
+        "carruselImages": [
+          "decoditec-wh-web/dec-web-1.webp",
+          "decoditec-wh-web/dec-web-2.webp",
+          "decoditec-wh-web/dec-web-3.webp",
+          "decoditec-wh-web/dec-web-4.webp",
+          "decoditec-wh-web/dec-web-5.webp",
+          "decoditec-wh-web/dec-web-6.webp",
+          "decoditec-wh-web/dec-web-7.webp",
+          "decoditec-wh-web/dec-web-8.webp",
+          "decoditec-wh-web/dec-web-9.webp",
+          "decoditec-wh-web/dec-web-10.webp"
+        ]
+      }
+    },
+    {
+      "name": "Canelatube Web",
+      "desc": "It is the cinnamon tube web client",
+      "image": "portfolio-ct-small.webp",
+      "urlDetail": "/portfolio-details.html?name=",
+      "details": {
+        "category": "Mobile App",
+        "client": "Personal Project",
+        "date": "Jun 17, 2023",
+        "filter": "web",
+        "url": "https://canelatube.alwaysdata.net/",
+        "title": "Canelatube Web Client",
+        "desc": "It is a small interface in case you need to download something quickly for computers or any device from the browser. In this project I use technologies such as: Express, Node js, Pug js, PostgreSQL.",
+        "carruselImages": [
+          "canelatube-web/ct-web.webp",
+          "canelatube-web/ct1-web.webp"
+        ]
+      }
+    },
+    {
+      "name": "Teqfood UI Kit",
+      "desc": "It is a sample of the designs that I get for some of my personal projects",
+      "image": "portfolio-ui-small.webp",
+      "urlDetail": "/portfolio-details.html?name=",
+      "details": {
+        "category": "Mobile App",
+        "client": "Personal Project",
+        "filter": "ui",
+        "date": "Nov 21, 2021",
+        "title": "Teqfood UI Kit",
+        "desc": "This is a small sample of the designs that you can make using an application like figma, although it is not perfect, I have the necessary UX/UI knowledge to make a functional app.",
+        "carruselImages": [
+          "teqfood-ui/tf-ui-4.webp",
+          "teqfood-ui/tf-ui-1.webp",
+          "teqfood-ui/tf-ui-2.webp",
+          "teqfood-ui/tf-ui-3.webp"
+        ]
+      }
+    },
+    {
+      "name": "Rick And Morty API",
+      "desc": "Consumption of the rick and morty api, with favorites management",
+      "image": "portfolio-app-rm-small.webp",
+      "urlDetail": "/portfolio-details.html?name=",
+      "details": {
+        "category": "Mobile App",
+        "client": "Personal Project",
+        "date": "Feb 9, 2022",
+        "filter": "app",
+        "github": "https://github.com/encrypton58/Rick_And_Morty",
+        "title": "Rick And Morty API App",
+        "desc": "This application was to have more knowledge with the retrofit library since I wanted to reinforce the consumption of enpoints more since I ended up only using Volley but I decided to delve deeper into exploring other libraries in this project I used: Retrofit, Picasso, Palette I also added the power save your favorite characters just by clicking a button.",
+        "carruselImages": [
+          "rm-app/rm-app-1.webp",
+          "rm-app/rm-app-2.webp",
+          "rm-app/rm-app-3.webp",
+          "rm-app/rm-app-4.webp",
+          "rm-app/rm-app-5.webp",
+          "rm-app/rm-app-6.webp"
+        ]
+      }
+    },
+    {
+      "name": "Decoditec Transport",
+      "desc": "ERP for administrative and tractor parts management of the logistics division.",
+      "image": "portfolio-dt-small.webp",
+      "urlDetail": "/portfolio-details.html?name=",
+      "details": {
+        "category": "Web App",
+        "client": "Decoditec",
+        "filter": "web",
+        "date": "Mar 20, 2021",
+        "title": "Decoditec Transport",
+        "desc": "This application is an ERP, each module contained its view, its database and its specific functions and many of them were connected to each other to create some format or that depended on both processes of each module. This project was more of a company and was not half possibility of the fork so I can add it more explained in this medium.",
+        "carruselImages": ["decoditec-tr-web/portfolio-dt-small.webp"]
+      }
+    },
+    {
+      "name": "SendLove Draw API",
+      "desc": "API developed for drawing submission management",
+      "image": "portfolio-sd-small.webp",
+      "urlDetail": "/portfolio-details.html?name=",
+      "details": {
+        "category": "Backend API",
+        "client": "Personal Project",
+        "filter": "web",
+        "date": "Jun 15, 2022",
+        "url": "https://www.ejemplo.com/proyecto8",
+        "title": "Send Love Draw API",
+        "desc": "This is the api for managing the application for sending messages as drawings. I have some videos on my Facebook page of how I created the api using technologies such as: Firebase, Firebase Messaging, Adonis js, PostgreSQL. Everything is on the server side as well as its configuration in Google Cloud.",
+        "carruselImages": ["sld-api/portfolio-sd-small.webp"]
+      }
+    },
+    {
+      "name": "Send Love Draw",
+      "desc": "Created to send drawing messages in real time.",
+      "image": "portfolio-sld-app-web.webp",
+      "urlDetail": "/portfolio-details.html?name=",
+      "details": {
+        "category": "Mobile App",
+        "client": "Personal Project",
+        "filter": "app",
+        "date": "Jun 15, 2022",
+        "title": "Send Love Draw (Sweet Whisper)",
+        "desc": "This application was created to send messages as drawings in real time, the application was created using technologies such as: Firebase, Firebase Messaging, Adonis js, PostgreSQL, Retrofit, Picasso, Palette, Room, LiveData, ViewModel, Coroutines, Navigation, DataBinding, WorkManager, and more. It is worth clarifying that the sample version I have is different from the company's",
+        "carruselImages": [
+          "sld-app/sld-app-1.png",
+          "sld-app/sld-app-2.png",
+          "sld-app/sld-app-3.png",
+          "sld-app/sld-app-4.png",
+          "sld-app/sld-app-5.png",
+          "sld-app/sld-app-6.png",
+          "sld-app/sld-app-7.png",
+          "sld-app/sld-app-8.png",
+          "sld-app/sld-app-9.png"
+        ]
+      }
+    },
+    {
+      "name": "Canelatube App",
+      "desc": "It is a small utility that I made to download music that also releases the code.",
+      "image": "portfolio-ct-app-small.png",
+      "urlDetail": "/portfolio-details.html?name=",
+      "details": {
+        "category": "Mobile App",
+        "filter": "app",
+        "client": "Personal Project",
+        "date": "Jun 17, 2023",
+        "url": "http://www.canelatube.alwaysdata.com",
+        "github": "https://github.com/encrypton58/CanelaTubeDownloader",
+        "title": "Canelatube Mobile App",
+        "desc": "It is a small utility that I made to download music that also releases the code. In this project I use technologies such as: Retrofit, Picasso, Palette, Room, LiveData, ViewModel, Coroutines, Navigation, DataBinding, WorkManager, and more.",
+        "carruselImages": [
+          "canelatube-app/cn1.png",
+          "canelatube-app/cn2.png",
+          "canelatube-app/cn4.png"
+        ]
+      }
+    }
+  ]
+}

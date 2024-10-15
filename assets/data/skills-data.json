@@ -1,0 +1,46 @@
+{
+  "languages": [
+    {
+      "name": "Kotlin",
+      "value": 70
+    },
+    {
+      "name": "Java",
+      "value": 70
+    },
+    {
+      "name": "Python",
+      "value": 20
+    },
+    {
+      "name": "Javascript",
+      "value": 50
+    },
+    {
+      "name": "Typescript",
+      "value": 60
+    }
+  ],
+  "technologies": [
+    {
+      "name": "Firebase",
+      "value": 60
+    },
+    {
+      "name": "Node JS",
+      "value": 70
+    },
+    {
+      "name": "Express",
+      "value": 60
+    },
+    {
+      "name": "Google Cloud",
+      "value": 20
+    },
+    {
+      "name": "Jetpack Compose",
+      "value": 15
+    }
+  ]
+}
